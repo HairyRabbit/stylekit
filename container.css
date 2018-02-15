@@ -1,0 +1,12 @@
+/**
+ * the container normal styles
+ *
+ * @TODO: the width should be configable
+ */
+
+@value container-width: 60rem; /* __CONTAINER_WIDTH__ */
+
+.container {
+  width: container-width;
+  margin: 0 auto;
+}

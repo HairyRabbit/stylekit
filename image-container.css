@@ -1,0 +1,14 @@
+/**
+ * image container
+ *
+ * sometimes you need image container box height equal the image height
+ */
+
+.container {
+  line-height: 0;
+}
+
+.container img {
+  display: block;
+  margin: 0 auto;
+}

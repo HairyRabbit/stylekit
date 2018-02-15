@@ -1,0 +1,12 @@
+/**
+ * list reset style
+ *
+ * 1. set marge and padding to 0
+ * 2. set list type to none
+ */
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}

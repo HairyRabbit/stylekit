@@ -1,0 +1,14 @@
+/**
+ * container with a fill overlay
+ * usually need to add 'backgroun-color' or 'opacity' by yourself
+ */
+
+.container {
+  position: relative;
+  z-index: 1;
+}
+
+.overlay {
+  composes: fill from './fill.css';
+  z-index: -1;
+}

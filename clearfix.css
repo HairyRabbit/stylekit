@@ -1,0 +1,9 @@
+/**
+ * clearfix for flot layout
+ */
+
+.clearfix:after {
+  content: ' ';
+  display: table;
+  clear: both;
+}

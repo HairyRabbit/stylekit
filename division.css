@@ -1,0 +1,12 @@
+/**
+ * better default for <hr />
+ *
+ * usually you need to set width and background-color for customized
+ */
+
+.hr {
+  height: 1px;
+  margin: 0.5em auto;
+  border: none;
+  background-color: #ccc;
+}
