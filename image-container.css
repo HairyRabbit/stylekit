@@ -8,7 +8,8 @@
   line-height: 0;
 }
 
-.container img {
+.img {
   display: block;
   margin: 0 auto;
+  composes: img from './image-response.css';
 }

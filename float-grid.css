@@ -1,0 +1,11 @@
+/**
+ * float grid system
+ */
+
+.row {
+  composes: clearfix from './clearfix.css';
+}
+
+.col {
+  float: left;
+}

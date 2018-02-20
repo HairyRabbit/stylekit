@@ -1,0 +1,9 @@
+/**
+ * reset header style
+ */
+
+.header-reset {
+  font-size: 100%;
+  font-weight: normal;
+  margin: 0;
+}
