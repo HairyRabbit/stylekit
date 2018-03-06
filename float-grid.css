@@ -9,3 +9,7 @@
 .col {
   float: left;
 }
+
+.last {
+  float: right;
+}
